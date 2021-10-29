@@ -1,2 +1,2 @@
-# exercecios_python_brasil
+# exercicios_python_brasil
 Repositório de exercícios do site Python Brasil
